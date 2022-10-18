@@ -1,16 +1,23 @@
-### Hi there 👋
+# Ramon-Celino
 
-<!--
-**ramoncelino/ramoncelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hello, guys! Welcome to my Github profile.
+## My name is Ramon and my nickname is "ramoncelino"!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a student of Electrical and Computer Engineering at the Federal University of Minas
+Gerais, with a broad interest in technology.
+
+## Ferramentas e Tecnologias
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+          
+          ![Snake animation](https://github.com/ramoncelino/ramoncelino/blob/output/github-contribution-grid-snake.svg)
+
