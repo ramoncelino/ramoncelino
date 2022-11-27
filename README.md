@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ramon+Antônio+Meira+Celino;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-👋 Hello guys! My name is ***Ramon***, and I'm an electrical and computer engineering student at UFMG. I'm 25 years old, I live in Belo Horizonte, Minas Gerais, and I'm increasing the range of technologies in the programming area.
+I'm an electrical and computer engineering student at UFMG. I'm 25 years old, I live in Belo Horizonte, Minas Gerais, and I'm increasing the range of technologies in the programming area.
 
 I have studied Python, SQL focused on Back-End Development.
 
