@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 👋 Hello guys! My name is ***Ramon***, and I'm an electrical and computer engineering student at UFMG. I'm 25 years old, I live in Belo Horizonte, Minas Gerais, and I'm increasing the range of technologies in the programming area.
 
